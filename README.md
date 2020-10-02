@@ -38,39 +38,59 @@ WikiCat can be used to train topical text classification models.
 
 ## Code
 
+To train a text classifier
 ```bash
 python code/run_natcat.py \
     --model_type roberta \
-    --model_name_or_path roberta-large \
+    --model_name_or_path roberta-base \
     --task_name natcat \
     --seed 1 \
     --do_train \
     --do_lower_case \
     --data_dir data/sample-data \
     --max_seq_length 128 \
-    --per_gpu_train_batch_size=16   \
+    --per_gpu_train_batch_size=32   \
     --learning_rate 2e-5 \
     --num_train_epochs 1 \
-    --save_total_limit 3 \
-    --output_dir saved_checkpoints/roberta-large \
-    --warmup_steps 15000
+    --save_total_limit 2 \
+    --output_dir saved_checkpoints/roberta-base \
+    --warmup_steps 7500
 ```
 
+
+To evaluate on a single label text classification task
 ```bash
 python code/run_eval.py \
     --model_type roberta \
-    --model_name_or_path saved_checkpoints/roberta-large \
+    --model_name_or_path saved_checkpoints/roberta-base \
     --task_name eval \
     --do_eval \
     --do_lower_case \
     --eval_data_file data/cateval/agnews/test.csv \
     --max_seq_length 128 \
     --class_file_name=data/cateval/agnews/classes.txt.acl \
-    --pred_output_file=saved_checkpoints/roberta-large/agnews.preds.txt \
-    --output_dir saved_checkpoints/roberta-large \
+    --pred_output_file=saved_checkpoints/roberta-base/agnews.preds.txt \
+    --output_dir saved_checkpoints/roberta-base \
     --per_gpu_eval_batch_size=64 
 ```
 
+To evaluate on a multi label text classification task
+```bash
+python code/run_eval.py \
+    --model_type roberta \
+    --label_filepath data/cateval/comment/test.class.txt \
+    --model_name_or_path saved_checkpoints/roberta-base \
+    --eval_data_file data/cateval/comment/test.doc.txt \
+    --class_file_name=data/cateval/comment/classes.txt.acl \
+    --task_name comment \
+    --do_eval \
+    --multi_class \
+    --do_lower_case \
+    --max_seq_length 128 \
+    --per_gpu_eval_batch_size=64   \
+    --output_dir saved_checkpoints/roberta-base \
+    --pred_output_file=saved_checkpoints/roberta-base/comment.preds.txt 
+```
 
 Dependencies
 - transformers 3.1.0
