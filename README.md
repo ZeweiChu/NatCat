@@ -21,7 +21,11 @@ Each data file is tab separated data. The first field is the positive/correct ca
 
 [CatEval](/data/cateval) contains the 11 tasks we use to evaluate NatCat trained text classifiers. 
 
-Under each task directory, the file named ```classes.txt.acl``` list the category names we used to run the experiments. 
+Under each task directory, the file named ```classes.txt.acl``` list the category names we used to run the experiments.
+
+The test datasets of AGNews, DBP, Yahoo, Amazon-2, Yelp2 can be downloaded from [https://drive.google.com/drive/u/0/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M](https://drive.google.com/drive/u/0/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M) and are created by Zhang et al., [ Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626) .
+
+The Comment dataset is available under [data/cateval/comment](/data/cateval/comment) and is created from [https://dataturks.com/projects/zhiqiyubupt/comment](https://dataturks.com/projects/zhiqiyubupt/comment)
 
 ### WikiCat
 
