@@ -74,6 +74,11 @@ python code/run_eval.py \
     --per_gpu_eval_batch_size=64 
 ```
 
+To calculate the model prediction accuracy of a single label task
+```bash
+python code/compute_acc.py  saved_checkpoints/roberta-base/agnews.preds.txt  data/cateval/agnews/test.csv
+```
+
 To evaluate on a multi label text classification task
 ```bash
 python code/run_eval.py \
@@ -90,6 +95,11 @@ python code/run_eval.py \
     --per_gpu_eval_batch_size=64   \
     --output_dir saved_checkpoints/roberta-base \
     --pred_output_file=saved_checkpoints/roberta-base/comment.preds.txt 
+```
+
+To calculate the model prediction accuracy of a multi label task
+```bash
+python code/compute_lrap.py saved_checkpoints/roberta-base/comment.preds.txt data/cateval/comment/test.class.txt data/cateval/comment/classes.txt.acl
 ```
 
 Dependencies
