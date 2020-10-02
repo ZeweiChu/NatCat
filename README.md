@@ -1,6 +1,6 @@
 # NatCat
 
-This repo provides the NatCat dataset from [Natcat: Weakly Supervised Text Classification with Naturally Annotated Datasets](). 
+This repo provides the NatCat dataset from [Natcat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://arxiv.org/abs/2009.14335). 
 
 ## Data
 
@@ -55,6 +55,22 @@ python code/run_natcat.py \
     --output_dir saved_checkpoints/roberta-large \
     --warmup_steps 15000
 ```
+
+```bash
+python code/run_eval.py \
+    --model_type roberta \
+    --model_name_or_path saved_checkpoints/roberta-large \
+    --task_name eval \
+    --do_eval \
+    --do_lower_case \
+    --eval_data_file data/cateval/agnews/test.csv \
+    --max_seq_length 128 \
+    --class_file_name=data/cateval/agnews/classes.txt.acl \
+    --pred_output_file=saved_checkpoints/roberta-large/agnews.preds.txt \
+    --output_dir saved_checkpoints/roberta-large \
+    --per_gpu_eval_batch_size=64 
+```
+
 
 Dependencies
 - transformers 3.1.0

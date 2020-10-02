@@ -1,0 +1,1287 @@
+player criticize	team cav
+player humor
+player criticize	play
+game observation	feeling	sentiment pos	player praise	team war	play
+player praise	team cav
+player criticize	team cav
+refs neg	play
+game praise
+feeling	player praise	team cav
+player criticize	team cav
+player praise	team cav	sentiment pos
+game expertise
+player praise	team cav
+stats	sentiment neg	player praise	team cav	game observation
+player praise	team cav	sentiment pos
+sentiment pos
+stats	sentiment pos
+game observation
+player criticize	team cav
+player praise	player criticize	team cav
+teasing
+game expertise
+team war	game expertise
+team cav	game expertise
+team war
+player criticize	team cav	teasing
+player criticize	team cav	sentiment neg
+game praise
+player praise	team cav	game observation
+player criticize	team cav	sentiment neg
+commentary
+game observation
+injury
+injury	game observation	communication
+refs neg	play
+play	refs neg
+game expertise	feeling	game observation
+player criticize	team cav
+game praise	sentiment pos
+stats	team war
+refs neg	play
+team cav	feeling
+player praise	team cav
+feeling
+communication
+feeling	game observation	player praise	team cav
+sentiment
+game observation	feeling	team cav
+player criticize	team cav
+player criticize	team cav
+stats	team cav
+stats	player praise	team cav
+game observation	team cav	player praise
+game expertise	team cav
+game expertise
+sentiment neg
+player humor	player criticize	team cav
+coach pos	player humor	team war
+game praise	player praise	team cav	sentiment pos
+game praise
+player criticize	team cav
+injury	game observation
+game praise
+feeling	game expertise	stats	game observation
+game observation	team cav	play
+coach pos	game observation
+feeling	game observation	team cav	sentiment pos
+player praise	team cav	game observation
+sentiment
+game praise	player praise	team cav
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav	sentiment neg
+game observation	communication
+feeling
+sentiment neg
+player praise	play
+team
+game expertise
+game observation	player criticize	team cav
+sentiment pos	player praise	team cav
+game expertise	sentiment pos	sentiment neg	player praise	team cav
+player criticize	team cav	stats
+player criticize	team cav
+player criticize	team cav	sentiment neg
+player criticize	team cav
+refs pos
+team war	sentiment neg	refs neg
+refs neg
+game praise	sentiment pos
+game expertise
+sentiment pos	team cav	player praise
+player praise	team cav	sentiment pos	game praise
+refs neg
+player criticize
+play	player criticize	team war	player humor
+player criticize	team cav
+injury	team cav
+player criticize	team cav
+player praise	team cav	sentiment pos
+player praise
+refs neg	feeling
+game observation
+player criticize	team cav
+game observation	player humor	team war
+game observation	injury	team cav
+game observation	game expertise	team cav	sentiment neg
+teasing	team cav	player criticize
+sentiment neg	player criticize	team war
+player praise
+player praise	team cav
+player criticize	team cav	sentiment neg
+player praise	game expertise
+play	player criticize
+teasing	communication
+refs neg
+game observation	communication
+player praise
+commentary
+player criticize	team cav
+player criticize	team cav	coach neg	game expertise
+game expertise	team war	sentiment pos
+game observation	teasing	player humor	team war
+injury	game observation
+injury	team cav
+refs neg	play
+player praise	team cav	sentiment pos
+team cav	sentiment pos
+sentiment neg
+player criticize	team cav
+feeling	game observation
+player criticize
+refs pos
+game expertise	communication	feeling
+player criticize	team cav
+commercial
+player humor	team war	play
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav
+game observation	feeling
+commercial
+play	game expertise
+refs neg
+feeling
+player praise	team war
+player praise
+play	team war	game observation
+player praise	player criticize	game expertise	team cav
+sentiment neg	player criticize	team war
+stats
+feeling
+player praise	team cav	sentiment pos
+player criticize	sentiment neg	team cav
+player criticize
+player criticize	team cav
+player criticize	team cav	sentiment neg
+sentiment neg	feeling
+sentiment neg
+commercial
+player praise	game praise	team cav	sentiment pos	game expertise
+team	game expertise
+player criticize	team cav	teasing
+player criticize	teasing	team cav
+player praise	team cav	play
+sentiment pos	team cav	game observation
+play	refs neg	sentiment neg
+game observation
+player praise
+refs neg	play
+refs neg
+game expertise	play
+player humor	player criticize	team war
+game expertise	player criticize	player praise
+refs pos	play
+game observation
+player criticize	team cav
+player criticize	team cav
+game observation	communication	team war
+play	sentiment pos
+player criticize	team cav	sentiment neg
+player criticize	play
+player praise	team war	play
+play	player praise	team war	sentiment pos
+player criticize
+commentary
+commercial
+game expertise	player praise
+commercial
+player praise	team cav
+player praise	team cav
+game observation
+player criticize	team cav
+player criticize	team cav
+injury	player praise	player humor
+player criticize	team cav	game expertise
+feeling
+player humor	player criticize	team war
+refs neg	teasing	team cav
+game observation
+refs neg
+refs neg
+sentiment neg
+team cav	refs neg
+player praise	team war	sentiment pos
+player praise	team cav
+teasing	player praise	team cav
+injury
+feeling	communication
+refs pos	play
+player criticize	sentiment neg
+game observation
+player criticize	team cav
+feeling
+game observation
+refs neg
+game observation	refs neg
+game observation	play	feeling
+player criticize	team cav
+player criticize	team war
+player praise	game expertise	team cav
+game expertise	player praise	team cav
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav
+player criticize	team cav
+refs neg	play
+player criticize
+game observation
+coach neg
+coach neg	team cav
+game observation	player humor
+player criticize	team cav	sentiment neg
+game observation	sentiment neg	team war	team cav
+game expertise	player criticize	player praise	stats	team cav
+commentary
+play	game observation
+play	game observation	teasing
+game observation	teasing	team war
+feeling	player praise	team cav
+stats	player praise	team cav
+player criticize	team cav
+game observation
+player praise	player criticize	game expertise	team cav
+coach neg	team cav
+game observation	feeling	coach neg	team cav
+coach neg	game observation	team cav
+injury	game observation	team cav
+player praise	team cav
+player criticize	team war	play
+feeling
+commentary
+refs neg	team war	sentiment neg
+sentiment pos
+game observation
+commercial
+stats	game observation	game expertise	team cav	player praise
+player criticize	audience	game expertise
+stats	play	team cav
+game observation	game expertise
+play	team war	player humor	player praise
+game observation	game expertise	player criticize	team cav
+game observation
+commercial
+play	player criticize	team war
+play
+feeling
+coach neg	team war	game expertise
+team cav	game expertise
+player humor	game observation	feeling
+game observation	player humor	team cav
+communication
+player criticize	team cav
+game observation
+player criticize	team cav
+player criticize	team cav	sentiment neg
+commercial
+team cav	player humor
+game expertise	refs neg	play
+commentary
+refs neg	game expertise
+audience
+commercial
+game observation
+commentary
+refs
+game expertise	refs neg
+refs neg	teasing	game observation
+refs neg
+player criticize	feeling	team cav
+player humor	game observation
+refs neg
+game observation
+play	player praise
+sentiment neg	team cav	game expertise	teasing
+refs
+game expertise
+player praise	stats
+team cav	game expertise	sentiment neg
+feeling	game observation
+game observation	team cav
+player criticize	team cav	sentiment neg
+player criticize	team cav
+sentiment neg
+player humor	team war
+game observation
+audience
+refs neg	play
+commercial
+player humor	team cav
+player criticize	sentiment neg	team cav
+game observation	teasing
+refs neg
+coach neg	team cav	stats
+game observation
+stats	player praise
+stats	team
+commercial
+game expertise
+coach neg	coach pos
+game observation
+sentiment
+teasing	game observation	team war	stats
+game observation	teasing
+refs neg
+game praise	feeling
+refs
+feeling	sentiment pos	play
+refs neg
+player praise	player criticize	team war	team cav	game expertise
+player criticize	player praise
+player praise	team cav	play
+play	player humor
+commercial
+player criticize
+refs neg
+refs neg
+communication
+player criticize	team cav
+team cav	player humor
+feeling
+sentiment pos
+player praise
+game praise
+commentary	refs neg
+player criticize
+stats	player praise	team cav
+commercial
+feeling	player humor	team cav
+game expertise
+team cav	sentiment neg	play	game expertise
+refs neg	sentiment neg
+refs neg
+feeling
+commercial
+game expertise	player criticize
+commentary
+commercial
+player praise	team war
+player praise	team war
+feeling	teasing
+commercial
+game observation	feeling
+player praise	feeling	team cav
+coach neg	player criticize	team cav
+player criticize	team cav	coach neg
+game observation
+commentary
+player criticize	sentiment neg	team cav
+player criticize	team cav
+game observation	game expertise	player praise	team cav	team war
+commercial
+feeling
+player criticize	team war
+refs neg
+player criticize	team cav
+refs neg
+commercial
+commercial
+coach neg	player praise	team cav	play
+player criticize	team cav
+player praise	team cav	sentiment pos
+commercial	injury	player criticize	team war
+play	feeling
+play	player praise	team war
+player criticize	teasing	play
+game expertise
+player criticize
+refs neg
+player criticize	team cav	sentiment neg
+player criticize	team cav
+player criticize	team cav	coach neg	game expertise
+play	sentiment neg	game observation
+game observation	communication	audience
+feeling	teasing
+coach pos	team war
+commentary
+commentary
+feeling	game observation
+play	sentiment pos
+game observation	feeling
+game expertise	team
+sentiment pos	feeling
+game expertise
+sentiment neg	play
+player criticize
+team cav	sentiment neg	game observation
+game observation
+game observation
+player criticize	coach
+stats	player praise	team cav
+refs neg
+refs neg
+refs neg
+game observation
+refs neg	play
+communication
+refs neg	play
+game praise
+game praise	communication
+commercial
+player humor	player criticize	team cav
+play	refs neg
+play
+play	communication	game observation
+game expertise	stats	team cav
+player praise	team war	play	teasing
+refs neg
+game expertise	feeling
+refs neg
+refs neg
+game praise	team cav	sentiment pos
+teasing	game observation
+play	refs neg
+play	game expertise
+game observation
+commentary
+commercial
+game expertise
+sentiment neg	team cav
+coach neg	stats	team cav
+game expertise	team cav	sentiment neg
+play
+feeling	teasing	play	team war
+commentary	play	refs neg
+game observation	player criticize	team cav
+refs neg	play
+player praise
+injury	game observation
+sentiment pos
+game observation
+sentiment pos
+sentiment pos
+play
+game observation	team cav
+player praise	team war
+play	sentiment neg
+game praise
+game expertise
+commentary	play
+refs neg
+player criticize	team cav
+player criticize	coach neg
+player criticize	team cav
+player criticize	team cav
+play	game observation
+sentiment neg
+player criticize	play
+play	game expertise	team war
+game observation
+player praise	team war
+sentiment neg	feeling
+play	player praise	player criticize	game expertise
+game expertise
+player praise	team cav	game observation	stats
+play	team cav	player praise
+refs neg	play
+game expertise	team cav
+game observation	stats
+game expertise	team war
+player humor	team cav
+team war	player praise
+game expertise	refs neg
+commentary
+player humor	team cav
+player praise	team war
+player praise	game observation	stats	feeling
+game observation	communication
+refs neg
+commentary
+commentary
+game expertise	player praise	player criticize	team cav
+sentiment
+refs neg
+refs neg	play
+game expertise	team war
+commercial
+commercial
+commercial
+refs neg
+communication
+game observation	player criticize	sentiment neg	team cav
+player criticize	team cav
+game observation
+game observation
+game observation
+player praise
+communication
+sentiment pos
+commentary
+play	player praise	sentiment pos
+game expertise
+player praise
+play
+player praise	team war
+game observation	player criticize	team cav
+game observation
+player humor	team war	play
+refs neg
+refs
+game observation	feeling	audience
+refs
+feeling
+refs neg
+refs neg
+player praise	team cav
+game observation
+refs neg
+commercial
+game observation	game expertise
+play	game expertise
+game observation	sentiment neg	team cav
+player criticize
+refs
+team war	sentiment pos	stats
+stats
+commercial
+team cav	player humor
+teasing	player criticize	team cav
+game expertise
+injury
+player praise	player criticize	team cav	game expertise
+game observation	player humor	team war
+player criticize	team cav
+player criticize	team cav
+game expertise	team cav	coach neg
+player criticize
+commercial
+play	refs neg
+game observation	feeling
+commercial
+commercial
+refs neg	game observation	game expertise
+game observation	stats	team cav	feeling
+communication	game expertise	play
+commercial	audience
+game expertise	team cav
+feeling
+game observation
+player praise
+teasing
+feeling
+feeling	team war
+teasing	game observation	player praise	player criticize	team cav
+game expertise	player praise	team cav	stats
+game expertise
+game observation	player criticize	team cav	player praise	team war
+game observation	game expertise
+refs neg
+game observation
+play
+refs neg
+refs neg
+play
+refs
+game expertise
+refs neg	game expertise
+commercial
+commentary
+player criticize	team cav	feeling
+game observation	game expertise
+refs neg
+player criticize	team cav
+game observation	player criticize	team cav
+game expertise
+team cav	game expertise
+player
+audience
+game expertise	team cav
+game expertise
+commercial
+commercial
+stats
+game expertise	sentiment neg
+game observation	commentary
+player praise
+sentiment pos
+feeling	player praise	team war	game observation
+game observation	feeling	team war
+player praise	team war
+stats	team cav	team war
+play	stats	team cav
+player criticize	team cav
+player praise
+commercial
+injury	team cav
+game observation	team cav	player criticize
+game expertise
+sentiment
+sentiment pos
+commentary
+refs pos
+game observation
+game observation
+game observation	communication
+refs neg	game observation
+player humor
+game observation	game expertise	team cav	team war
+game observation	stats	sentiment pos	team war
+player praise	team cav
+stats	game observation
+stats	team war
+stats	player praise
+stats	team war
+stats	player praise
+stats
+sentiment neg	team cav	feeling
+communication	feeling
+player praise	player criticize	team cav	game expertise
+commentary	feeling
+teasing	game observation
+teasing
+commentary
+commercial
+communication
+communication
+player criticize	team cav	sentiment neg
+player criticize
+player praise
+refs
+refs
+player criticize
+sentiment
+game observation
+play	game observation
+refs
+feeling
+stats	player praise	team war
+player criticize	team cav
+team war	game expertise
+teasing	player humor	team cav
+team war
+game expertise	team war
+feeling
+commercial
+sentiment pos
+play
+game expertise
+feeling
+feeling
+player criticize
+commercial
+commentary	player praise	game observation
+stats
+sentiment neg
+game observation	stats
+commercial
+commercial
+commercial
+commercial
+game observation	game expertise	team cav	sentiment neg
+player praise	team cav	game observation
+player praise	player criticize	team cav
+player praise	team cav	game expertise
+commercial
+communication	game observation
+commentary
+sentiment neg
+game expertise
+game observation	feeling
+player praise	game observation	team cav
+commercial
+player criticize	team cav	teasing
+game observation	communication	stats
+player praise
+coach neg	sentiment neg
+team cav	game expertise
+player praise	team war
+sentiment neg	team war	feeling
+sentiment neg	game observation
+player criticize	team cav	sentiment neg
+play	player praise
+stats	game expertise	team cav
+play
+stats	team cav	player humor
+player praise	team cav
+commercial
+commercial
+player praise
+player praise	team cav	game observation
+refs
+player praise	team cav
+commercial
+audience	game praise
+player praise	team war
+commercial
+teasing	coach neg	team cav
+player criticize	team cav	game observation
+team cav	game expertise
+player criticize
+player praise	team war	stats
+game expertise	player praise	team cav
+stats	player praise	team war
+commercial
+communication	player criticize	team cav	feeling
+game expertise
+refs neg	play
+refs
+sentiment neg
+commercial
+stats	player criticize
+refs neg	play
+refs neg	play
+team cav	stats	feeling	game observation
+commercial
+player praise	team war	sentiment pos
+play	game observation
+game expertise	team cav	player praise
+player praise	team cav	injury
+player praise	team cav
+team cav	game expertise	injury
+injury
+game expertise
+game observation	team war
+player praise
+game observation	team war	player praise
+game observation
+player criticize
+stats	player criticize	team war	game observation	communication
+play
+refs neg	team cav
+stats	player praise
+commercial
+game observation	coach neg	team cav
+player praise
+sentiment
+player praise	sentiment pos	team war	game observation
+feeling
+game expertise	stats	team cav
+sentiment neg
+game observation	feeling
+play	team cav
+game praise
+game observation	teasing
+sentiment neg
+sentiment
+teasing
+game expertise	player humor
+refs neg
+play
+refs neg
+game observation	player praise	team cav
+player criticize	player humor	team cav
+commercial
+refs neg	play
+commentary	game observation	feeling
+game observation	feeling	team cav
+play
+team cav	sentiment pos	feeling
+sentiment pos	team war
+teasing
+game observation
+sentiment neg	team war
+player praise	team war
+play	game observation	team cav	stats
+sentiment pos
+game observation	sentiment neg
+game expertise	player praise	team cav
+commercial
+refs
+audience
+sentiment neg	feeling
+play	sentiment neg
+commentary	feeling	player humor
+game observation	play
+commercial
+commercial
+player praise
+player humor
+player praise	team cav
+refs neg	play
+player praise	player criticize	team cav
+coach neg	team cav
+player praise	sentiment pos	team cav
+stats	team war
+player criticize	team cav
+game expertise
+coach neg	game observation
+game praise
+commentary
+play	player praise	team cav
+player praise	game expertise	team cav
+player criticize	team cav	sentiment neg
+commentary
+game observation	game expertise	team cav	sentiment neg
+sentiment neg	team cav	stats
+player praise	team war	game expertise
+play	team cav	team war	game observation
+refs
+play	sentiment neg	refs neg
+player criticize
+play
+commentary
+game observation
+commercial
+game observation	stats	feeling
+play	player praise
+team war	player praise
+sentiment pos
+feeling	player praise	team war
+sentiment pos
+sentiment pos
+refs neg
+game observation	game expertise	feeling
+feeling
+team	player praise
+feeling	game observation	player criticize	team cav
+player criticize	team cav
+commercial
+player praise	team cav	game observation
+coach
+game observation	team cav
+player praise	game observation	team cav
+play	game observation
+player praise
+commentary
+sentiment
+game expertise
+communication	refs neg
+team war	game observation	feeling
+game expertise	play
+refs neg
+game expertise
+player praise	player criticize	team cav
+player praise	stats	team war	sentiment pos
+commercial
+commercial
+commercial
+audience	teasing
+commercial
+refs neg	game observation
+refs neg
+player criticize	team cav
+stats	game observation
+stats
+stats	player praise	team war
+game expertise	team war
+game expertise
+game observation
+game observation	refs neg
+stats	team war
+game observation	team cav
+refs neg	teasing
+player criticize	team cav
+team war	stats	game expertise	player praise
+commercial	stats
+stats	feeling	game observation
+play
+player criticize	team
+sentiment neg	player criticize	team cav
+game observation	game expertise
+player praise	sentiment neg	sentiment pos	team war
+game expertise
+player praise	player criticize
+player criticize	team war
+team cav	sentiment pos
+game expertise
+refs neg
+game expertise
+commercial
+player praise	team cav
+play
+sentiment neg
+sentiment pos
+player criticize	game observation	sentiment neg
+feeling	game observation	player humor
+game observation	stats
+feeling
+injury	game observation
+game expertise	team war	game observation
+feeling
+commercial
+game observation
+sentiment pos
+game observation
+sentiment neg
+play
+player criticize	team cav
+feeling	game observation
+sentiment pos
+feeling	team cav
+refs neg
+refs neg
+refs	play
+sentiment neg	player criticize	team war
+commentary
+communication	play	team cav
+commercial
+game observation	feeling	team cav
+game expertise
+game expertise
+play
+commentary	feeling	sentiment neg
+feeling
+feeling	team war
+player criticize	team cav
+play
+team cav	stats
+stats
+sentiment neg
+game expertise	player praise
+player criticize	team cav	coach neg	game observation	game expertise
+team cav	sentiment neg	feeling
+player criticize	team cav
+game praise
+player praise	team cav	game observation
+coach neg	player criticize	team cav
+game observation	sentiment neg	team cav	audience
+player criticize	team cav	stats
+game expertise	team cav
+game praise
+coach neg	team cav
+player praise
+coach	player criticize
+feeling
+feeling	team cav	game observation	stats
+coach neg
+game observation	teasing	team war
+game observation	feeling	game expertise	team cav
+feeling
+team cav	sentiment neg	feeling
+commercial
+audience
+player praise
+commentary
+player criticize
+game observation	player praise	stats	team cav	game expertise
+stats	game expertise
+player criticize	team cav	teasing
+player criticize
+commercial
+commercial
+player praise	player criticize	team cav	team war
+refs	sentiment
+team cav	sentiment neg
+team	game expertise
+player praise	team cav
+player criticize	team war
+game observation	refs neg	sentiment neg
+feeling	team cav
+game observation
+game expertise	team cav
+refs neg	team war
+refs neg	play
+coach neg	team cav
+player criticize
+commercial
+game expertise
+player criticize	game observation	team cav
+player criticize	team cav	feeling
+player criticize	play	team cav
+game observation
+commercial
+team war	team cav	coach pos	coach neg
+feeling
+player praise
+commercial
+coach neg	game observation	sentiment neg
+coach neg	team cav	game observation
+game observation	feeling	communication
+sentiment
+feeling	sentiment neg
+game expertise	team cav
+coach neg	team cav
+player criticize
+sentiment pos	game observation	team war
+game expertise
+player praise
+player praise
+game expertise
+player praise	team cav
+feeling	sentiment neg
+game expertise	injury	team cav
+audience
+game observation	game expertise	feeling
+team war	sentiment neg
+game praise
+communication	feeling
+stats	player praise	game expertise
+sentiment pos	feeling
+communication	sentiment neg	game observation
+player praise	team cav
+audience	game observation
+refs
+audience	game observation	feeling
+player praise	team cav	sentiment neg
+team	game expertise
+player praise	team cav	sentiment pos	game observation	feeling
+player criticize
+team
+player criticize	team cav
+game expertise
+injury	game expertise	team cav
+player criticize	play	game observation	team war
+game observation	game expertise	play
+game observation
+player criticize	team war	feeling	sentiment neg
+coach neg	team cav
+player criticize	sentiment neg	play
+player criticize	team cav
+game expertise	sentiment neg
+refs neg	game expertise	play
+game expertise	refs neg
+commentary
+game observation	team cav	player praise
+game expertise	team cav	player praise
+game expertise
+game expertise	team cav	player praise	game praise
+team	game expertise
+feeling	team cav
+refs neg	play
+commentary
+player criticize	team cav
+sentiment pos	team cav
+player praise	team cav
+coach neg	team cav	game observation
+game expertise
+game expertise
+game observation	feeling	sentiment pos	team cav
+commentary
+refs neg	game expertise
+player humor	player criticize	team cav
+player criticize	team cav	sentiment neg
+game observation	stats	team cav
+game expertise
+feeling
+game expertise
+communication
+sentiment neg	team war
+teasing	player praise	team cav
+player criticize	team cav
+game expertise
+player criticize	play	team cav
+commentary
+game expertise
+player praise	team cav	game expertise
+stats	feeling	player praise	team cav
+game expertise	game observation
+commentary
+audience
+audience	communication
+audience	teasing	team war
+game expertise
+feeling
+refs neg	play
+play	game expertise
+player praise	team cav
+game observation	team cav
+coach neg	game observation	stats	team cav
+commercial
+game observation	feeling	team cav	sentiment neg
+player praise
+sentiment
+sentiment neg
+refs pos	play
+commentary
+play	team cav	player praise
+player humor
+communication
+game praise	player praise	team cav	feeling
+player criticize	play
+player praise	game expertise
+player praise	team cav	game expertise
+feeling	team cav
+player praise	team cav
+player praise
+refs neg	sentiment neg	team war
+game observation
+feeling
+refs neg
+team cav
+game observation	player criticize	team cav
+sentiment pos
+play	communication
+game expertise
+team war	sentiment neg	injury
+feeling
+team
+game expertise	player praise	team cav	feeling	game observation
+game praise	sentiment pos	team cav
+play	player criticize	team war
+refs neg	game observation
+game observation	sentiment pos	team cav
+sentiment neg	feeling	team cav
+commentary
+feeling
+stats	sentiment pos
+player criticize	game expertise	sentiment neg
+player criticize	team cav
+game expertise	coach neg	team cav
+stats	communication	sentiment neg	team cav	game observation
+game observation	team cav
+team cav	player criticize
+play	player praise	sentiment pos
+play
+player criticize	team cav
+player criticize
+play	player criticize	sentiment neg
+player criticize	team cav	play	stats
+game expertise	coach neg
+stats
+coach neg	player praise	player criticize	team cav
+coach neg	game expertise
+game expertise	team cav
+game observation	stats
+sentiment neg
+player praise
+stats	player praise	team cav
+game observation	game expertise	feeling
+player praise	game expertise
+sentiment neg
+play	team cav
+player praise	game expertise	team cav
+game expertise
+feeling	play
+game expertise	game observation	sentiment neg	team cav
+player praise	player criticize	team cav
+team cav	sentiment neg
+sentiment neg	team war
+coach neg	team cav
+feeling	coach neg	team cav
+refs neg
+player criticize	team war
+stats	sentiment neg
+sentiment neg
+coach neg	team cav	game expertise	communication
+coach neg
+player criticize	team cav
+coach neg	team cav
+player criticize
+player criticize
+refs
+feeling
+player praise	team cav	sentiment neg
+coach neg	game expertise
+player criticize	team cav
+player criticize	team cav
+coach	player praise
+player praise	team cav
+coach neg	feeling	sentiment neg	team cav
+player criticize	team cav	sentiment neg	game observation
+player criticize	team cav
+sentiment	game expertise
+teasing	coach neg	team cav	player criticize
+team cav	sentiment neg
+player criticize	team cav
+game observation	sentiment neg	team cav
+game expertise
+feeling
+feeling
+refs neg	game expertise	team cav
+coach neg	team cav
+game expertise	team cav	team war
+game observation
+sentiment neg	team cav	feeling
+game expertise	team cav
+coach
+sentiment
+player praise	team cav
+sentiment pos	game praise
+game expertise	play	player criticize	team cav
+player criticize	team cav
+player humor	coach neg	team cav
+game expertise
+stats	player praise
+player praise	team war	game observation
+game observation	feeling	team war
+player praise	game expertise
+game praise
+sentiment neg	team war	refs neg
+player humor
+team war	game expertise
+player criticize	team war	player humor
+team cav	stats	player praise	game expertise
+sentiment neg
+stats	team cav
+sentiment
+game observation	feeling	team war
+player praise	team war	game expertise
+game observation	stats
+game expertise	team cav
+feeling
+player criticize
+communication
+audience
+refs neg	team cav	game expertise
+game expertise
+play	refs neg	game observation
+play
+commercial
+feeling	communication	sentiment pos	game praise
+player praise	game praise	team cav
+player praise
+game expertise	stats
+team cav	team war
+play	player praise	team cav
+player praise
+audience
+player criticize	team cav
+sentiment neg	feeling	game observation
+game observation
+sentiment
+player praise	sentiment pos	sentiment neg	player criticize	team cav	game observation	feeling
+game observation	team cav	player praise
+player humor	player criticize	team cav
+game observation	team war
+player criticize	team cav	sentiment neg	game expertise
+game expertise
+play	player praise	team war
+player praise
+refs
+game expertise	team cav	communication
+commercial
+commentary
+refs neg	sentiment neg	injury	team war	game observation
+player praise	coach neg	game observation
+injury	team cav
+feeling
+game expertise
+feeling	game observation	sentiment neg
+game expertise	play	team cav
+sentiment pos	player praise	team cav
+audience	sentiment pos
+feeling
+audience
+game expertise
+player criticize	team war	sentiment neg	game expertise
+game observation
+teasing	game observation	feeling
+play	player praise	team cav
+game observation	feeling	player criticize	team war
+refs neg	game expertise
+commentary
+team cav	sentiment neg	game expertise
+player criticize	team war	play	sentiment neg
+coach neg	team cav	player praise
+refs
+game expertise
+game observation	team cav
+stats	game expertise
+sentiment neg	team cav	game observation	feeling
+team
+player praise	team cav	sentiment pos
+coach neg	team cav	game expertise
+play	refs neg	game observation
+game expertise	team cav	sentiment neg	player criticize	player praise
+game praise	game expertise
+stats	player criticize	team cav
+feeling
+player praise	stats
+commercial
+commercial
+sentiment neg	sentiment pos
+sentiment neg
+refs neg	play
+refs neg
+refs neg	play
+refs neg	play
+player criticize	team cav
+player criticize	team cav
+refs neg	play
+coach neg	game expertise	sentiment neg
+team	game expertise
+player praise	team cav	sentiment pos
