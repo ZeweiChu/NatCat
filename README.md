@@ -113,5 +113,14 @@ Dependencies
 
 ## Citation
 
+@misc{chu2020natcat,
+      title={NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets}, 
+      author={Zewei Chu and Karl Stratos and Kevin Gimpel},
+      year={2020},
+      eprint={2009.14335},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
 Zewei Chu
 9/29/2020
