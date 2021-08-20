@@ -27,6 +27,8 @@ The test datasets of AGNews, DBP, Yahoo, Amazon-2, Yelp2 can be downloaded from 
 
 The Comment dataset is available under [data/cateval/comment](/data/cateval/comment) and is created from [https://dataturks.com/projects/zhiqiyubupt/comment](https://dataturks.com/projects/zhiqiyubupt/comment)
 
+The NYT dataset is constructed from [The New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/LDC2008T19) . You will need to get a license from "The New York Times Annotated Corpus Agreement" to use their data. The script we used to construct the CatEval test set can be found under [data/cateval/nyt/data-prep](data/cateval/nyt/data-prep).
+
 ### WikiCat
 
 We provide another full version of NatCat constructed from Wikipeda, namely, WikiCat. It can be downloaded from [here](https://drive.google.com/file/d/1N8WlbpG0p90GMQup7Bq3Kp8Y4NapBw3T/view?usp=sharing). 
