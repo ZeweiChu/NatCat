@@ -112,6 +112,10 @@ Dependencies
 - transformers 3.1.0
 - torch 1.4.0
 
+## Pretrained Mod
+
+pretrained zero shot models (BERT and RoBERTa trained with random seed 1) can be downloaded [here](https://drive.google.com/file/d/1i6EvlWmV6_m7bZo0LPMQlcxdP0n5Adb_/view?usp=sharing). 
+
 
 ## Citation
 ```
